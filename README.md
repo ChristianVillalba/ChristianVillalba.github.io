@@ -33,7 +33,9 @@ The section "CERTIFICATIES" includes links to the certifications I obtained by f
     * Using Hosting Services
     * Deployment of static websites
     * Using FTP Protocol
-
+* UPDATE 2023 - Codecademy Project:
+   * Hosted on GitHub Pages
+   * GitHub Pages manages a custom domain name
 
 ## Author
 
@@ -44,3 +46,4 @@ Christian Villalba
 * [Bootstrap - Resume](https://startbootstrap.com/previews/resume)
 * [Bootstrap - Agency](https://startbootstrap.com/previews/agency)
 * [A simple README](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* [Web Dev Tutorials](https://www.youtube.com/watch?v=dbgEWWBvIxY)
